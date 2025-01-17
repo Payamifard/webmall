@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Controllers\admin;
+namespace App\Http\Controllers\Admin;
 use Illuminate\Support\Str;
 
 use App\Models\Category;
